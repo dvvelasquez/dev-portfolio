@@ -7,7 +7,7 @@
             "logo": "./assets/images/logo-white.svg"
         },
         "resume_button" : {
-            "cv_url": "https://acrobat.adobe.com/id/urn:aaid:sc:US:8161ba09-2223-4eff-9c18-be337982dc8d",
+            "cv_url": "https://acrobat.adobe.com/id/urn:aaid:sc:US:38224fba-cfc6-4269-8a68-6aace63ed0b7",
             "cv_button_text": "View Resume"
         },
         "contact_me_button": {
@@ -17,12 +17,12 @@
         "social_icons": [
             {
                 "name": "Linkedin",
-                "link": "https://www.linkedin.com/in/diego-fernando-villamil-velasquez/",
+                "link": "https://www.linkedin.com/in/diegofernandovelasquez/",
                 "icon": "<i class='fa-brands fa-linkedin'></i>"
             },
             {
                 "name": "GitHub",
-                "link": "https://github.com/iorivilla84",
+                "link": "https://github.com/dvvelasquez",
                 "icon": "<i class='fa-brands fa-github'></i>"
             }
         ],
