@@ -6,8 +6,8 @@
     },
     "copyright": {
         "text": "<span class='copyright'>© Copyright</span>",
-        "year": "<span class='footer-year'></span>",
-        "made_by": "| Made by Diego Velasquez",
-        "made_by_link": "https://github.com/iorivilla84"
+        "year": "<span class='footer-year'></span> | ",
+        "made_by": "Designed and Developed by Diego Velasquez",
+        "made_by_link": "https://github.com/dvvelasquez"
     }
 }

@@ -9,6 +9,7 @@
         "company_logo": "./assets/images/company-logos/true-alliance-logo-white.png",
         "period_time": "Jun 2021 – Jul 2025 · 4 yrs 2 mos",
         "responsibilities": [
+          "Part of an agile cross-functional team delivering and maintaining scalable eCommerce storefronts for 24 international fashion and retail brands within the Salesforce Commerce Cloud (SFCC) ecosystem.",
           "Managed high traffic websites and brands such as: <em><u>Banana Republic, Ben Sherman, Brooks Brothers, Coach, Coach Outlet, Ellesse, GAP, Kate Spade, Lacoste, Lee Jeans, Nautica, Speedo, Teva, The North Face, Rides and Wrangler.</u></em>",
           "Revamped the Checkout flow styles to improve usability, enhance component consistency, and align PDP and PLP designs across multiple brands.",
           "Built, enhanced and maintained custom templates, including homepages and blog modules, to support scalable and reusable front-end solutions.",
@@ -18,7 +19,9 @@
           "Enhanced Homepage Modules interactivity and UX, enabling easier maintenance and precise element positioning.",
           "Ensured maintainability of the SASS architecture, adhering to brand standards and cartridge inheritance structures.",
           "Managed Business Manager (BM) operations, including custom attribute creation, slot/content management, and deployment packages.",
-          "Supported cross-functional teams with prototypes, design consistency, and ongoing UI maintenance across web and mobile."
+          "Supported cross-functional teams with prototypes, design consistency, and ongoing UI maintenance across web and mobile.",
+          "Configure Business Manager content, promotions, preferences, and catalogues per brand requirements.",
+          "Write documentation/how to guides in Jira and follow clean code practices, semantic HTML, and accessibility standards."
         ],
         "stack": ["SFCC (SFRA)", "Page Designer", "SCSS", "ISML", "VS Code", "JavaScript", "jQuery", "Demandware Script", "npm", "swb", "Git", "Webpack", "Jira", "Figma"]
     },
@@ -41,7 +44,7 @@
           "Optimised website content, slugs, meta titles, descriptions, and keywords to improve search visibility and drive relevant traffic.",
           "Maintained strong client collaboration, delivering solutions aligned with brand guidelines and goals that generated repeat business and excellent client recommendations."
         ],
-        "stack": ["WordPress", "Elementor", "WPBakery", "WooCommerce", "Stripe (payment gateway integration)", "PayPal (payment gateway integration)", "VS Code", "HTML", "CSS", "JavaScript", "Adobe XD", "Illustrator", "Photoshop", "After Effects", "Adobe Animate", "InDesign", "Adobe Firefly", "cPanel", "Installatron", "Email setup"]
+        "stack": ["WordPress", "Elementor", "WPBakery", "WooCommerce", "Stripe (payment gateway integration)", "PayPal (payment gateway integration)", "DNS Setup","VS Code", "HTML", "CSS", "JavaScript", "Adobe XD", "Illustrator", "Photoshop", "After Effects", "Adobe Animate", "InDesign", "Adobe Firefly", "cPanel", "Installatron", "Email setup"]
     },
     {
       "company_name": "Rr Creativos",
