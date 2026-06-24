@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getNavigationDataModel = async () => {
-    const navigationEndPath = './js/portfolio-model/navigation-list.json';
+    const navigationEndPath = './js/data/navigation-list.json';
 
     try {
         const response = await fetch(navigationEndPath);

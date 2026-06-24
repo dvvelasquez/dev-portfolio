@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getAboutMeList = async () => {
-    const aboutMeEndPath = "./js/portfolio-model/about-me.json";
+    const aboutMeEndPath = "./js/data/about-me.json";
 
     try {
         const response = await fetch(aboutMeEndPath);

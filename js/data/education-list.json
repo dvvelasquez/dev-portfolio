@@ -2,9 +2,14 @@
     "section_title": "Education!",
     "education": [
         {
+            "title":"Diploma of Information Technology (Front-End and Back-end Web Development)",
+            "institute": "TAFE NSW",
+            "period": "June 2026"
+        },
+        {
             "title":"Full Stack Engineer",
-            "institute": "Code Academy (Currently Enrolled – Online)",
-            "period": "since June 2024"
+            "institute": "Code Academy",
+            "period": "2024"
         },
         {
             "title":"Node.js ",

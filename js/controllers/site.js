@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getSiteData = async () => {
-    const siteDataEndPath = "./js/portfolio-model/site.json";
+    const siteDataEndPath = "./js/data/site.json";
 
     try {
         const response = await fetch(siteDataEndPath);

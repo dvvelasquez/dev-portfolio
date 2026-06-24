@@ -70,10 +70,7 @@ The portfolio is built with semantic HTML5, Bootstrap 5 for responsive layout, S
 │   │   ├── portfolio-list-model.js
 │   │   ├── recommendations-model.js
 │   │   └── site.js
-│   ├── helpers/
-│   │   ├── dom-helper.js
-│   │   └── formatter.js
-│   ├── portfolio-model/
+│   ├── data/
 │   │   ├── about-me.json
 │   │   ├── contact.json
 │   │   ├── education-list.json
@@ -85,6 +82,9 @@ The portfolio is built with semantic HTML5, Bootstrap 5 for responsive layout, S
 │   │   ├── recommendations-list.json
 │   │   ├── site.json
 │   │   └── skills.json
+│   ├── helpers/
+│   │   ├── dom-helper.js
+│   │   └── formatter.js
 │   └── main.js
 ├── node_modules/
 ├── scss/

@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getHeroBannerDataModel = async () => {
-    const heroBannerEndPath = './js/portfolio-model/hero-banner.json';
+    const heroBannerEndPath = './js/data/hero-banner.json';
 
     try {
         const response = await fetch(heroBannerEndPath);

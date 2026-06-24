@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getExperienceList = async () => {
-    const experienceListEndPath = './js/portfolio-model/experience-list.json';
+    const experienceListEndPath = './js/data/experience-list.json';
 
     try {
         const response = await fetch(experienceListEndPath);

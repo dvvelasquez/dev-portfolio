@@ -5,7 +5,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
  const getRecommendationData = async () => {
-    const recommendationDataEndPath = "./js/portfolio-model/recommendations-list.json";
+    const recommendationDataEndPath = "./js/data/recommendations-list.json";
 
     try {
         const response = await fetch(recommendationDataEndPath);

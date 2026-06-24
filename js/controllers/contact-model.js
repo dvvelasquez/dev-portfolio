@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getContactDataModel = async () => {
-    const contactEndPath = './js/portfolio-model/contact.json';
+    const contactEndPath = './js/data/contact.json';
 
     try {
         const response = await fetch(contactEndPath);

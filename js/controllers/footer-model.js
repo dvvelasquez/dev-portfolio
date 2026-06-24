@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data and code
  */
 const getFooterDataModel = async () => {
-    const footerEndPath = './js/portfolio-model/footer-content.json';
+    const footerEndPath = './js/data/footer-content.json';
 
     try {
         const response = await fetch(footerEndPath);

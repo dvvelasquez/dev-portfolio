@@ -5,7 +5,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getEducationData = async () => {
-    const educationDataEndPath = "./js/portfolio-model/education-list.json";
+    const educationDataEndPath = "./js/data/education-list.json";
 
     try {
         const response = await fetch(educationDataEndPath);

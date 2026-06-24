@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getSkills = async () => {
-    const skillsEndPath = './js/portfolio-model/skills.json'
+    const skillsEndPath = './js/data/skills.json'
 
     try {
         const response = await fetch(skillsEndPath);

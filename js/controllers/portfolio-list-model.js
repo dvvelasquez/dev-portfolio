@@ -4,7 +4,7 @@
  * @returns {Promise} An Object containing the request status, data objects and code
  */
 const getPortfolioListModel = async () => {
-    const portfolioListEndPath = './js/portfolio-model/portfolio-list.json';
+    const portfolioListEndPath = './js/data/portfolio-list.json';
 
     try {
         const response = await fetch(portfolioListEndPath);
